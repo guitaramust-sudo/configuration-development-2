@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Web.API</id>
+    <version>1.0.0</version>
+    <authors>Test Company</authors>
+    <description>Web API controllers and infrastructure</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Business.Logic" version="1.0.0" />
+        <dependency id="Common.Utilities" version="1.0.0" />
+        <dependency id="Security.Auth" version="1.0.0" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
