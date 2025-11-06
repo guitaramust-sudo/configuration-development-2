@@ -1,7 +1,9 @@
 # configuration-development-2
 
 Dependency Graph Visualizer
+
 Этапы разработки
+
 Этап 1: Конфигурация
 CLI-приложение с парсингом аргументов
 
